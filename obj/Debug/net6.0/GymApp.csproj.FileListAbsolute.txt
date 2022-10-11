@@ -1,0 +1,15 @@
+C:\Projects\GymApp\GymApp\obj\Debug\net6.0\GymApp.csproj.AssemblyReference.cache
+C:\Projects\GymApp\GymApp\obj\Debug\net6.0\GymApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GymApp\GymApp\obj\Debug\net6.0\GymApp.AssemblyInfoInputs.cache
+C:\Projects\GymApp\GymApp\obj\Debug\net6.0\GymApp.AssemblyInfo.cs
+C:\Projects\GymApp\GymApp\obj\Debug\net6.0\GymApp.csproj.CoreCompileInputs.cache
+C:\Projects\GymApp\GymApp\bin\Debug\net6.0\GymApp.exe
+C:\Projects\GymApp\GymApp\bin\Debug\net6.0\GymApp.deps.json
+C:\Projects\GymApp\GymApp\bin\Debug\net6.0\GymApp.runtimeconfig.json
+C:\Projects\GymApp\GymApp\bin\Debug\net6.0\GymApp.dll
+C:\Projects\GymApp\GymApp\bin\Debug\net6.0\GymApp.pdb
+C:\Projects\GymApp\GymApp\obj\Debug\net6.0\GymApp.dll
+C:\Projects\GymApp\GymApp\obj\Debug\net6.0\refint\GymApp.dll
+C:\Projects\GymApp\GymApp\obj\Debug\net6.0\GymApp.pdb
+C:\Projects\GymApp\GymApp\obj\Debug\net6.0\GymApp.genruntimeconfig.cache
+C:\Projects\GymApp\GymApp\obj\Debug\net6.0\ref\GymApp.dll
